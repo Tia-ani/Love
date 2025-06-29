@@ -13,7 +13,7 @@ const CandleFlameTheory = () => {
         </h2>
         <div className="bg-white/10 backdrop-blur-lg rounded-lg p-8 shadow-xl">
           <p className="text-lg text-gray-200 leading-relaxed mb-6">
-            The Candle Flame Theory suggests that souls are like flames - unique, ever-changing, and capable of joining together to create something even more beautiful. When two souls connect, they dance like twin flames, creating a stronger, more vibrant light.
+            The Candle Flame Theory suggests that souls are like flames - unique, ever-changing, and capable of joining together to create something even more beautiful. When two souls connect, they dance like twin flames, creating a stronger, more vibrant light
           </p>
           <div className="grid md:grid-cols-2 gap-8 mt-8">
             <div className="bg-white/5 rounded-lg p-6">
